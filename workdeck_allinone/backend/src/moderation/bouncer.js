@@ -1,1 +1,0 @@
-export function moderateText(s=''){ return { ok:true, flags:[] }; } export function validateGeo(state){ return /^[A-Z]{2}$/.test(state||''); }

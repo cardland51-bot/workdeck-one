@@ -1,1 +1,0 @@
-export async function getSubscription(id){ return { id, status: 'ACTIVE' }; }

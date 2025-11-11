@@ -1,1 +1,0 @@
-export default async function openaiInfer(filePath, opts={}) { throw new Error('OpenAI not wired'); }
