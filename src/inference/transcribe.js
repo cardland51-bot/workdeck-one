@@ -1,0 +1,1 @@
+export default async function transcribeMedia(absPath) { return { text: 'Walkthrough: minor leak by valve; 2 fittings; 1 hr labor; budget about $350.' }; }
